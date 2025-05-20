@@ -3,8 +3,7 @@
 <p align="center">
   <a href="mailto:sayalijadhav354@gmail.com">📧 sayalijadhav354@gmail.com</a> |
   <a href="https://www.linkedin.com/in/sayali-jadhav1311/">LinkedIn</a> |
-  <a href="https://github.com/your-username">GitHub</a> |
-  <a href="https://leetcode.com/your-leetcode-id">LeetCode</a>
+  <a href="https://leetcode.com/u/sayalijadhav354/">LeetCode</a>
 </p>
 
 ---
