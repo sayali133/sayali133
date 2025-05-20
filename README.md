@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:sayalijadhav354@gmail.com">📧 sayalijadhav354@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> |
+  <a href="www.linkedin.com/in/sayali-jadhav1311Vanity URL name">LinkedIn</a> |
   <a href="https://github.com/your-username">GitHub</a> |
   <a href="https://leetcode.com/your-leetcode-id">LeetCode</a>
 </p>
