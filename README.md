@@ -9,30 +9,28 @@
 ---
 
 ## 💫 About Me
-💻 Python Backend Developer with 1+ year experience in building scalable applications using Django, REST APIs, and AWS.
+👋 Hi! I'm Sayali, a passionate **Python Backend Developer** with hands-on experience in building scalable and secure backend systems using **Python, Django, REST APIs, and AWS**.
 
-🚀 Focused on developing real-world backend systems, optimizing performance, and deploying cloud-based applications.
+💼 I worked as a Backend Developer at Tata Consultancy Services (TCS), where I contributed to enterprise-level applications and improved system performance through optimized APIs and database queries.
 
----
+🚀 Currently, I am focused on building **real-world backend projects** and deploying them on the cloud (AWS), strengthening my skills in **API development, cloud integration, and system design**.
+
+💡 I enjoy solving complex backend problems, optimizing performance, and designing clean, scalable architectures.
+
 
 ## 🚀 Featured Projects
 
 ### 🔹 Resume Analyzer with ATS Scoring
 - Built using Django, NLP, and OCR  
 - Extracts and analyzes resumes against job descriptions  
-- Integrated AWS S3 for secure file storage  
-
-👉 GitHub: *Add your repo link*  
-👉 Live: *Add deployed link (very important)*  
-
+- Integrated AWS S3 for secure file storage
+- 
 ---
 
 ### 🔹 Expense Tracker API
 - REST API for managing daily expenses  
 - CRUD operations with database integration  
 - Data visualization using charts  
-
-👉 GitHub: *Add your repo link*  
 
 ---
 
@@ -50,11 +48,6 @@
 - Developed REST APIs using Django  
 - Improved performance with optimized queries  
 - Implemented secure authentication systems  
-
----
-
-## 📊 GitHub Stats
-![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayali133&show_icons=true)
 
 ---
 
