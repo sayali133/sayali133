@@ -28,24 +28,26 @@
 
 ---
 
-## 💻 Tech Stack
+ ## 💻 Tech Stack
 
-**Languages:**  
-Python | C | C++ | SQL | HTML | CSS  
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sql" />
 
-**Frameworks & Tools:**  
-Django | Django REST Framework | Angular | Bootstrap | Tailwind CSS | Postman  
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=django,angular,bootstrap,tailwind,postman" />
 
-**Databases:**  
-PostgreSQL | MySQL | MongoDB  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda, API Gateway, CloudWatch)  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws" />
 
-**Other Tools:**  
-Git | GitHub  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github" />
 
----
+</p>
 
 ## 💼 Work Experience
 
