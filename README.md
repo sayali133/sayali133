@@ -9,84 +9,47 @@
 ---
 
 ## 💫 About Me
-👋 Hi! I'm Sayali, a passionate **Python Backend Developer** with hands-on experience in building scalable and secure backend systems using **Python, Django, REST APIs, and AWS**.
+💻 Python Backend Developer with 1+ year experience in building scalable applications using Django, REST APIs, and AWS.
 
-💼 I worked as a Backend Developer at Tata Consultancy Services (TCS), where I contributed to enterprise-level applications and improved system performance through optimized APIs and database queries.
-
-🚀 Currently, I am focused on building **real-world backend projects** and deploying them on the cloud (AWS), strengthening my skills in **API development, cloud integration, and system design**.
-
-💡 I enjoy solving complex backend problems, optimizing performance, and designing clean, scalable architectures.
-
----
-
-## 🌐 What I Do
-- 🔹 Build scalable backend systems using Django & REST APIs  
-- 🔹 Design secure authentication & authorization systems  
-- 🔹 Optimize database queries & improve performance  
-- 🔹 Deploy applications on AWS (EC2, S3)  
-- 🔹 Work on real-world projects with cloud integration  
-
----
-
- ## 💻 Tech Stack
-
-<p align="center">
-  
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
-
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=django,angular,postman" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github" />
-
-</p>
-
-## 💼 Work Experience
-
-**Tata Consultancy Services (TCS)**  
-*Python Backend Developer | Mar 2024 – April 2025*  
-- Developed and optimized REST APIs using Django  
-- Improved backend performance by 40% through query optimization  
-- Implemented role-based access control for secure APIs  
-
-**Self-Employed | Backend Projects & Cloud Deployment**  
-*April 2025 – Present*  
-- Developed and deployed Django-based backend applications on AWS  
-- Built REST APIs with authentication, CRUD operations, and optimization  
-- Integrated cloud storage (AWS S3) for file handling  
+🚀 Focused on developing real-world backend systems, optimizing performance, and deploying cloud-based applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Cloud-Based Resume Analyzer with ATS Scoring
-**Tech:** Python, Django, NLTK, OCR, AWS S3  
-- Built an intelligent system to analyze resumes using NLP & OCR  
-- Implemented ATS scoring based on job descriptions  
-- Enabled secure file upload and cloud storage integration
-- 
----
+### 🔹 Resume Analyzer with ATS Scoring
+- Built using Django, NLP, and OCR  
+- Extracts and analyzes resumes against job descriptions  
+- Integrated AWS S3 for secure file storage  
 
-## 🏆 Achievements
-- 🎖️ Recognized in TCS Gems for performance excellence  
-- 🎤 Hosted seminar on “Workplace Etiquette”  
-- 🥈 Runner-up in TCS Maitree (Presentation & Grooming)  
+👉 GitHub: *Add your repo link*  
+👉 Live: *Add deployed link (very important)*  
 
 ---
 
-## 🎯 Goals (2026)
-- 🚀 Master Django REST APIs & system design  
-- ☁️ Gain advanced expertise in AWS cloud  
-- 💼 Secure a backend developer role in product-based company  
-- 📈 Strengthen problem-solving with DSA  
+### 🔹 Expense Tracker API
+- REST API for managing daily expenses  
+- CRUD operations with database integration  
+- Data visualization using charts  
+
+👉 GitHub: *Add your repo link*  
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,aws,postgres,mysql,mongodb,git,github&perline=8" />
+</p>
+
+---
+
+## 💼 Experience
+
+**Tata Consultancy Services (TCS)**  
+*Python Backend Developer | Mar 2024 – April 2025*  
+- Developed REST APIs using Django  
+- Improved performance with optimized queries  
+- Implemented secure authentication systems  
 
 ---
 
@@ -95,12 +58,17 @@
 
 ---
 
-## 🤝 Let's Connect
-💬 I'm open to opportunities, collaboration, and learning!
-
-📧 Email: sayalijadhav354@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sayali-jadhav1311/  
+## 🎯 Current Focus
+- Building Django + AWS projects  
+- Improving API performance & system design  
+- Preparing for backend developer roles  
 
 ---
 
-⭐ *“Building scalable backend systems and growing every day.”*
+## 🤝 Let's Connect
+📧 sayalijadhav354@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sayali-jadhav1311/
+
+---
+
+⭐ *“Code. Build. Deploy. Repeat.”*
