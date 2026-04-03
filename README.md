@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sayali Uttam Jadhav</h1>
+ <h1 align="center">Hi 👋, I'm Sayali Uttam Jadhav</h1>
 
 <p align="center">
   <a href="mailto:sayalijadhav354@gmail.com">📧 sayalijadhav354@gmail.com</a> |
@@ -8,69 +8,100 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 Computer Engineering graduate from **Parvatibai Genba Moze College of Engineering** (CGPA: 8.3)
-- 💼 Assistant System Engineer at **Tata Consultancy Services (TCS)** – SBI Project (*Pension Fixed Price Support*)
-- 💻 Passionate about **Python**, **Django**, and **AWS** with real-world backend experience
-- 🔧 Skilled in **Angular**, **SQL**, and **Frontend Optimization**
-- 🌱 Currently learning and building full-stack apps with **Django + AWS**
+## 💫 About Me
+👋 Hi! I'm Sayali, a passionate **Python Backend Developer** with hands-on experience in building scalable and secure backend systems using **Python, Django, REST APIs, and AWS**.
+
+💼 I worked as a Backend Developer at Tata Consultancy Services (TCS), where I contributed to enterprise-level applications and improved system performance through optimized APIs and database queries.
+
+🚀 Currently, I am focused on building **real-world backend projects** and deploying them on the cloud (AWS), strengthening my skills in **API development, cloud integration, and system design**.
+
+💡 I enjoy solving complex backend problems, optimizing performance, and designing clean, scalable architectures.
 
 ---
 
-### 🧠 Skills
-- **Languages:** Python, C, C++, SQL, HTML, CSS, JavaScript
-- **Frameworks & Tools:** Django, Angular, Bootstrap, TailwindCSS, Jenkins
-- **Databases:** MongoDB, MySQL
-- **Cloud:** AWS (Lambda, S3, EC2, CloudWatch, API Gateway)
-- **Other:** Shell Scripting, Git, GitHub, Postman
+## 🌐 What I Do
+- 🔹 Build scalable backend systems using Django & REST APIs  
+- 🔹 Design secure authentication & authorization systems  
+- 🔹 Optimize database queries & improve performance  
+- 🔹 Deploy applications on AWS (EC2, S3)  
+- 🔹 Work on real-world projects with cloud integration  
 
 ---
 
-### 💼 Work Experience
-**Tata Consultancy Services**  
-*Assistant System Engineer – Mar 2024 to April 2025, Mumbai*  
-- Developed optimized SQL queries for data management  
-- Involved in performance tuning, migration support, and monitoring  
-- Collaborated on scripting and system integration tasks  
+## 💻 Tech Stack
 
-**Scalar TechHub**  
-*Web Developer Intern – Jan 2024 to Mar 2024, Pune*  
-- Built dynamic Angular web apps with responsive UIs  
-- Worked on TypeScript, RxJS, and frontend performance  
+**Languages:**  
+Python | C | C++ | SQL | HTML | CSS  
 
-**Twowaits Technologies Pvt Ltd**  
-*Web Developer – Jun 2023 to Sep 2023, Pune*  
-- Created responsive frontend UI  
-- Practiced problem-solving on HackerRank & CodeChef  
+**Frameworks & Tools:**  
+Django | Django REST Framework | Angular | Bootstrap | Tailwind CSS | Postman  
 
-**Innotek IT System LLP**  
-*Full Stack Developer Intern – Feb 2022 to Jul 2022, Pune*  
-- Developed Django-based systems with email & admin dashboard  
-- Focused on backend logic, API development, and DB integration  
+**Databases:**  
+PostgreSQL | MySQL | MongoDB  
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, Lambda, API Gateway, CloudWatch)  
+
+**Other Tools:**  
+Git | GitHub  
 
 ---
 
-### 📂 Highlight Project
-**Event Management & Registration System**  
-*Tech: Python, Django, Bootstrap, SQL*  
-- Developed a full-stack event system with admin dashboard  
-- Added search/filter, email confirmations, and authentication features  
+## 💼 Work Experience
+
+**Tata Consultancy Services (TCS)**  
+*Python Backend Developer | Mar 2024 – April 2025*  
+- Developed and optimized REST APIs using Django  
+- Improved backend performance by 40% through query optimization  
+- Implemented role-based access control for secure APIs  
+
+**Self-Employed | Backend Projects & Cloud Deployment**  
+*April 2025 – Present*  
+- Developed and deployed Django-based backend applications on AWS  
+- Built REST APIs with authentication, CRUD operations, and optimization  
+- Integrated cloud storage (AWS S3) for file handling  
 
 ---
 
-### 🏆 Achievements
-- 🎖️ Recognized in **TCS Gems** for excellence  
-- 🥈 Runner-up – TCS Maitree Fashion Show (Best Grooming & Presentation)  
-- 🎤 Hosted a seminar on **“Workplace Etiquette”**
+## 🚀 Featured Projects
+
+### 🔹 Cloud-Based Resume Analyzer with ATS Scoring
+**Tech:** Python, Django, NLTK, OCR, AWS S3  
+- Built an intelligent system to analyze resumes using NLP & OCR  
+- Implemented ATS scoring based on job descriptions  
+- Enabled secure file upload and cloud storage integration  
+
+👉 *(Add your GitHub repo link here)*  
+👉 *(Add live project link if deployed)*  
 
 ---
 
-### 🎯 Goals (2025)
-- ✅ Advance skills in Django, REST APIs, AWS
-- ✅ Build portfolio projects using Python + Cloud
-- ✅ Contribute to open-source projects
-- ✅ Prepare for tech interviews with DSA & LeetCode
+## 🏆 Achievements
+- 🎖️ Recognized in TCS Gems for performance excellence  
+- 🎤 Hosted seminar on “Workplace Etiquette”  
+- 🥈 Runner-up in TCS Maitree (Presentation & Grooming)  
 
 ---
 
-📬 **Feel free to connect or collaborate with me!**
+## 🎯 Goals (2026)
+- 🚀 Master Django REST APIs & system design  
+- ☁️ Gain advanced expertise in AWS cloud  
+- 💼 Secure a backend developer role in product-based company  
+- 📈 Strengthen problem-solving with DSA  
+
+---
+
+## 📊 GitHub Stats
+![Sayali's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayali133&show_icons=true)
+
+---
+
+## 🤝 Let's Connect
+💬 I'm open to opportunities, collaboration, and learning!
+
+📧 Email: sayalijadhav354@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sayali-jadhav1311/  
+
+---
+
+⭐ *“Building scalable backend systems and growing every day.”*
