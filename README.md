@@ -69,11 +69,8 @@ Git | GitHub
 **Tech:** Python, Django, NLTK, OCR, AWS S3  
 - Built an intelligent system to analyze resumes using NLP & OCR  
 - Implemented ATS scoring based on job descriptions  
-- Enabled secure file upload and cloud storage integration  
-
-👉 *(Add your GitHub repo link here)*  
-👉 *(Add live project link if deployed)*  
-
+- Enabled secure file upload and cloud storage integration
+- 
 ---
 
 ## 🏆 Achievements
