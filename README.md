@@ -33,13 +33,13 @@
 <p align="center">
   
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,sql" />
 
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=django,angular,bootstrap,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=django,angular,postman" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" />
